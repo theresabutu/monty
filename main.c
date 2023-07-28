@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "monty-header.h"
 bus_t bus = {NULL, NULL, NULL, 0};
 =======
