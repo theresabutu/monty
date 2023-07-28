@@ -1,4 +1,4 @@
-#include "monty-header.c"
+#include "monty-header.h"
 bus_t bus = {NULL, NULL, NULL, 0};
 /**
 * main - monty code interpreter

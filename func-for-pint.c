@@ -1,4 +1,4 @@
-#include "monty-header.c"
+#include "monty-header.h"
 /**
  * f_pint - prints the top
  * @head: stack head

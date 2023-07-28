@@ -1,4 +1,4 @@
-#include "monty-header.c"
+#include "monty-header.h"
 /**
 * free_stack - frees a doubly linked list
 * @head: head of the stack
